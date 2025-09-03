@@ -7,8 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green)](https://samitha-vidhanaarachchi.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samitha--Vidhanaarachchi-black)](https://github.com/Samitha-Vidhanaarachchi)
 
-## 🔹 Profile  
-
 I am a highly dedicated researcher with a proven track record in academia and applied research. I specialize in **Machine Learning, Deep Learning, Computer Vision, HCI, and Software Engineering**.  
 
 My aspiration is to become an innovative researcher and academic who develops and teaches technologies that positively impact society. I am deeply passionate about interdisciplinary collaborations, solving real-world problems, and inspiring students to achieve excellence.  
