@@ -7,9 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green)](https://samitha-vidhanaarachchi.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samitha--Vidhanaarachchi-black)](https://github.com/Samitha-Vidhanaarachchi)
 
-I
-
----
 👨‍💻 Currently pursuing my PhD in Computer Science at Murdoch University, Australia  
 🤝 Looking to collaborate on AI, Machine Learning & NLP research projects  
 💬 Ask me about Deep Learning, Computer Vision, and Language Model-based QA systems  
