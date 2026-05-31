@@ -7,13 +7,11 @@
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green)](https://samitha-vidhanaarachchi.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samitha--Vidhanaarachchi-black)](https://github.com/Samitha-Vidhanaarachchi)
 
-I am a highly dedicated researcher with a proven track record in academia and applied research. I specialize in **Machine Learning, Deep Learning, Computer Vision, HCI, and Software Engineering**.  
-
-My aspiration is to become an innovative researcher and academic who develops and teaches technologies that positively impact society. I am deeply passionate about interdisciplinary collaborations, solving real-world problems, and inspiring students to achieve excellence.  
+I
 
 ---
-👨‍💻 I’m currently pursuing my PhD in Computer Science at Murdoch University, Australia  
-🤝 I’m looking to collaborate on AI, Machine Learning & NLP research projects  
+👨‍💻 Currently pursuing my PhD in Computer Science at Murdoch University, Australia  
+🤝 Looking to collaborate on AI, Machine Learning & NLP research projects  
 💬 Ask me about Deep Learning, Computer Vision, and Language Model-based QA systems  
 
 
